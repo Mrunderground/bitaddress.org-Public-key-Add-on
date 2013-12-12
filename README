@@ -1,3 +1,16 @@
+**********************************************************
+Mr.Underground edit
+This is a add on to bitaddress.org which allows you to generate bulk address in the format of Adress,Public key, private key.
+You will need to remove the Commas and qutations marks if using for wallets on TMP.
+My advice is to download this open source file, save to desktop, unplug your internet, open a private tab via the folder your about to download.
+Big thanks to murbul over at r/bitcoin for doing all the major work. 
+***********************************************************
+
+
+
+
+
+
 bitaddress.org
 JavaScript Client-Side Bitcoin Wallet Generator
 
